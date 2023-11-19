@@ -10,6 +10,8 @@ import java.util.Objects;
  * This class represents a MAC address as a String, and provides methods to convert it to an int, and to compare it to other MAC addresses.
  * @see <a href="https://en.wikipedia.org/wiki/MAC_address">MAC address</a>
  * @see <a href="https://en.wikipedia.org/wiki/Hexadecimal">Hexadecimal</a>
+ * @author Lorenzo
+ * @version 1.0
  */
 public class MAC {
     /**
